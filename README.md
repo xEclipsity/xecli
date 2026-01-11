@@ -6,7 +6,9 @@ A Python CLI to manage xEclipsity tools and releases
 ```bash
 pip install xecli
 ```
---    
+
+--  
+
 ##  Usage
 ```bash
 xe [COMMAND] [OPTIONS]
