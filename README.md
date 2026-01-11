@@ -20,7 +20,7 @@ xe help
 ```
 COMMANDS:
   setup              Initialize xecli
-  help               Show this help message
+  help               Help command
 
 TOOLS COMMANDS:
   tools list         List all available tools from xEclipsity
