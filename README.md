@@ -1,6 +1,7 @@
 # xecli
 A Python CLI to manage xEclipsity tools and releases
 --
+
 ## Installation
 
 ```bash
@@ -17,7 +18,9 @@ xe [COMMAND] [OPTIONS]
 ```bash
 xe help
 ```
+
 -- 
+
 ## Commands
 COMMANDS:
   setup              Initialize xecli
