@@ -20,6 +20,7 @@ xe help
 -- 
 
 ## Commands
+```
 COMMANDS:
   setup              Initialize xecli
   help               Show this help message
@@ -40,6 +41,7 @@ TOOLS COMMANDS:
   xe tools update example     # Update 'example'
   xe tools update --all       # Update all tools
   xe tools remove example     # Remove 'example'
+```
 
 ## Use of this
 **You can use this to check, download, update, our tools with ease.**
