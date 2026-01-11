@@ -16,8 +16,6 @@ xe [COMMAND] [OPTIONS]
 xe help
 ```
 
--- 
-
 ## Commands
 ```
 COMMANDS:
