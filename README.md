@@ -63,12 +63,5 @@ EXAMPLES
 ```
 
 ---
-
-## info
-https://github.com/xEclipsity/xecli - repository
-https://github.com/xEclipsity - our github
-License: Apache 2.0
-
----
 ## Use of this
 **You can use this to check, download, update, our tools with ease.**
