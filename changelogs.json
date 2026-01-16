@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0",
+  "project": "xecli",
+  "versions": [
+    {
+      "version": "1.0.6",
+      "date": "2024-01-15",
+      "changes": {
+        "added": [
+          "Changelog command (`xe changelog`)",
+          "Search command (`xe search <term>`)",
+          "env-check command ('xe env-check')"
+        ],
+        "fixed": [
+          "Nothing needed fixing <3"
+        ],
+        "improved": [
+          "help command (you can now do -h or just xe)"
+        ]
+      },
+      "notes": "first release with changelog + split the project into multiple files.. (release will roll out soon!)"
+    }
+  ]
+}
