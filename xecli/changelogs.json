@@ -4,7 +4,7 @@
   "versions": [
     {
       "version": "1.0.6",
-      "date": "2024-01-15",
+      "date": "2026-01-16",
       "changes": {
         "added": [
           "Changelog command (`xe changelog`)",
