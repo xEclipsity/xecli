@@ -9,13 +9,13 @@
         "added": [
           "Changelog command (`xe changelog`)",
           "Search command (`xe search <term>`)",
-          "env-check command ('xe env-check')",
+          "env-check command ('xe env-check')"
         ],
         "fixed": [
-          "Nothing needed fixing <3",
+          "Nothing needed fixing <3"
         ],
         "improved": [
-          "help command (you can now do -h or just xe)",
+          "help command (you can now do -h or just xe)"
         ]
       },
       "notes": "first release with changelog + split the project into multiple files.. (release will roll out soon!)"
