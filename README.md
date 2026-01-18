@@ -9,9 +9,11 @@ pip install xecli
 or
 ```bash
 pipx install xecli --pip-args "typer[all] requests"
+pipx ensurepath
+source ~/.bashrc # or ~/.zshrc
 ```
 
-# help / usage
+# Help / Usage
 
 ```bash
 xe help 
