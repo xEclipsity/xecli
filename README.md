@@ -9,6 +9,7 @@ pip install xecli
 or
 ```bash
 pipx install xecli --pip-args "typer[all] requests"
+```
 
 # help / usage
 
